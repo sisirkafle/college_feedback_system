@@ -87,6 +87,7 @@ if ($id) {
 <html>
 <head>
 <title>Manage Feedback</title>
+    <link rel="icon" type="image/png" href="favicon.jpg">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
