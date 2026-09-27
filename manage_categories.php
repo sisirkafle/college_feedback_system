@@ -43,6 +43,7 @@ $result = $conn->query("SELECT * FROM categories ORDER BY name");
 <html>
 <head>
 <title>Manage Categories</title>
+    <link rel="icon" type="image/png" href="favicon.jpg">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
