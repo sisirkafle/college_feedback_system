@@ -27,6 +27,7 @@ $total_count = $result->num_rows;
 <html>
 <head>
 <title>All Students</title>
+        <link rel="icon" type="image/png" href="favicon.jpg">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
