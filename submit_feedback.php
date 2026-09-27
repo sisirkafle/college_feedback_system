@@ -64,6 +64,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html>
 <head>
 <title>Submit Feedback</title>
+    <link rel="icon" type="image/png" href="favicon.jpg">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
