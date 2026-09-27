@@ -34,6 +34,7 @@ if ($view == 'all') {
 <html>
 <head>
 <title>Dashboard</title>
+    <link rel="icon" type="image/png" href="favicon.jpg">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
