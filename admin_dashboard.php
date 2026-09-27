@@ -17,6 +17,7 @@ $recent = $conn->query("SELECT f.*, s.full_name FROM feedback f JOIN students s 
 <html>
 <head>
 <title>Admin Dashboard</title>
+  <link rel="icon" type="image/png" href="favicon.jpg">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
